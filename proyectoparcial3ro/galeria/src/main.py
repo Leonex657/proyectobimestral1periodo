@@ -3,7 +3,7 @@ import flet as ft
 
 def main(page: ft.Page):
     page.title = "Anime"
-    page.bgcolor = ft.Colors.GREEN_800
+    page.bgcolor = ft.Colors.BLUE_800
 
     animes = [
         {
