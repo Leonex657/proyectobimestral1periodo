@@ -1,2 +1,2 @@
-# proyectobimestral1periodo
-proyecto bimestral emplea frameworks
+# proyectoparcial1periodo
+proyecto parcial emplea frameworks
